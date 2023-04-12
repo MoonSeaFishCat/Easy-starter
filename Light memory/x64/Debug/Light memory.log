@@ -1,0 +1,4 @@
+﻿  disguise_process.cpp
+E:\桌面\新建文件夹\Light memory\Light memory\disguise_process.cpp(43,77): warning C4267: “初始化”: 从“size_t”转换到“USHORT”，可能丢失数据
+E:\桌面\新建文件夹\Light memory\Light memory\disguise_process.cpp(49,76): warning C4267: “初始化”: 从“size_t”转换到“USHORT”，可能丢失数据
+  Light memory.vcxproj -> E:\桌面\新建文件夹\Light memory\x64\Debug\Light memory.exe

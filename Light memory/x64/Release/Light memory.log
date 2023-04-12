@@ -1,0 +1,10 @@
+﻿  Light memory.cpp
+E:\桌面\新建文件夹\Light memory\Light memory\Light memory.cpp(26,94): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+E:\桌面\新建文件夹\Light memory\Light memory\Light memory.cpp(135,43): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\桌面\新建文件夹\Light memory\Light memory\Light memory.cpp(136,40): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  1 of 298 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Light memory.vcxproj -> E:\桌面\新建文件夹\Light memory\x64\Release\Light memory.exe
